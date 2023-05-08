@@ -4,5 +4,5 @@
 
 ### git status
 ### git add . 
-### git comid -m "nombre version"
+### git commit -m "nombre version"
 ### git push / git push origin main
